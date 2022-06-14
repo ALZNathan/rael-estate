@@ -1,0 +1,157 @@
+.title {
+    position: absolute;
+    background: #6ed3c6;
+    width: 308px;
+    height: 15px;
+    left:36%;
+    padding: 2%;
+    text-align: center;
+    border: 5px rgb(179, 33, 82) solid;
+    border-radius: 75%;
+}
+
+.aba {
+    position: absolute;
+    width: 20%;
+}
+
+
+.yeled-rishon {
+    position: relative;
+    width: 100%;
+    height: 20%;
+    border: 5px rgb(179, 33, 82) solid;
+}
+
+.yeled-sheni {
+    position: relative;
+    width: 96%;
+    left: 0%;
+    text-align: center;
+    border: 9px rgb(179, 33, 82) solid;
+    height:30%;
+    background: #6ed3c6;
+}
+
+.yeled-shlishi {
+    position: relative;
+    width:216px;
+    left:1px;
+    text-align: center;
+    border:9px rgb(179, 33, 82) solid;
+    top: 190px;
+    height:30%;
+}
+
+.yeled-revei{
+
+    position: relative;
+    width:216px;
+    left:246px;
+    text-align: center;
+    border:9px rgb(179, 33, 82) solid;
+    top: 155px;
+    height:30%;
+}
+
+.yeled-chamishi{
+    position: relative;
+    width:216px;
+    left:256px;
+    text-align: center;
+    border:9px rgb(179, 33, 82) solid;
+    top: 80px;
+    height:30%;
+
+}
+
+.first {
+    left: 43px;
+    top: 114px;
+}
+
+.second {
+
+    top: 18%;
+    left: 27%;
+}
+
+.third {
+    top: 53%;
+    left: 4%;
+}
+
+.four {
+    top: 53%;
+    left: 26%;
+}
+
+
+.vertical-line {
+    position: absolute;
+    height: 82%;
+    background-color: #6ed3c6;
+    left: 77%;
+    width: 4px;
+    top: 7%;
+    border: 3px rgb(179, 33, 82) solid;
+}
+
+.small-cube {
+    width: 10%;
+    height: 20px;
+    text-align: center;
+    margin: 58px 6px 60px 6px;
+    left: 80%;
+    position: absolute;
+    border: 5px rgb(179, 33, 82) solid;
+    background: #9edbf9;
+}
+
+.sc1 {
+    top: 2%;
+}
+
+.sc2 {
+    top: 10%;
+}
+
+.sc3 {
+    top: 20%;
+}
+
+.sc4 {
+    top: 30%;
+}
+
+.sc5 {
+    top: 40%;
+}
+
+.sc6 {
+    top: 50%;
+}
+
+.sc7 {
+    top: 60%;
+}
+
+.sc8 {
+    top: 70%;
+}
+
+
+.ma-sheani-rotza-lama-ani-malkak{
+    background-image: url(https://lh6.googleusercontent.com/proxy/rGIgdCgFtTUYvYODrPZ11K7n1q3_agbKXyQy7FotR-7FY8LQHUCKk7XNDNrpto_FAprCZH4mSh9A8fpcRHScg7Md5Ce7IT_GHD4E7K-NsZWL=w3840-h2160-p-k-no-nd-mv);
+    background-position: center center;
+    background-repeat: no-repeat no-repeat;
+    background-size: cover;
+}
+.logo{
+    position: absolute;
+    top: 75%;
+    left: 53%;
+    width: 11%;
+    border-radius: 50%;
+}
+
